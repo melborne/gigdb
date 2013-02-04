@@ -15,6 +15,8 @@ GIG.gig? #=> true
 
 ひゃほー！
 
+---
+
 こっちのブログもよろしくね！
 
 [hp12c](http://melborne.github.com/ 'hp12c')
